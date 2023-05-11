@@ -1,9 +1,6 @@
-### Hi there 👋, 
+### Hello, 
 
-Teste de formatação,
-
-AIUSODIUAYSPOIUDASOIUDYASOIUDYASOIUD
-### Maiúsculo?
+I'm a student of Mechatronics Engineering at UFSC. I don't know much and am still learning C language. 
 
 <!--
 **PietroOP/PietroOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
