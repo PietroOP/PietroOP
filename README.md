@@ -2,6 +2,7 @@
 
 I'm a student of Mechatronics Engineering at UFSC. I don't know much and am still learning C language. 
 
+Eu sou um estudante de Engenharia Mecatrônica na UFSC. Eu ainda não sei muito e ainda estou aprendendo linguagem C.
 <!--
 **PietroOP/PietroOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
